@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=rolls
+comment0.target=void\ simulate(int)
+comment0.text=\n\ We\ are\ taking\ the\ number\ of\ rolls\ required\ as\ a\ pramater\ and\ randomizing\ the\ output.\ \n
+comment1.params=rolls
+comment1.target=void\ simpleSimulate(int)
+numComments=2

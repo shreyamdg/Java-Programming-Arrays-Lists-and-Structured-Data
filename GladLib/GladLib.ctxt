@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GladLib()
+comment0.text=\n\ Creating\ a\ constructor\ the\ initialize\ the\ instance\ variables.\n\ We\ use\ initializeFromSource\ function\ to\ load\ its\ content\ from\ the\ text\ file\ stored\ in\ source\ directory\n\ The\ source\ can\ be\ a\ URL\ or\ a\ text\ file.\ \n
+comment1.params=source
+comment1.target=GladLib(java.lang.String)
+comment2.params=source
+comment2.target=void\ initializeFromSource(java.lang.String)
+comment3.params=source
+comment3.target=java.lang.String\ randomFrom(java.util.ArrayList)
+comment3.text=\n\ This\ function\ chooses\ and\ returns\ a\ random\ number\ \n
+comment4.params=label
+comment4.target=java.lang.String\ getSubstitute(java.lang.String)
+comment4.text=\n\ This\ function\ uses\ the\ ArrayList\ of\ tags\ stored\ from\ the\ text\ file.\n
+comment5.params=w
+comment5.target=java.lang.String\ processWord(java.lang.String)
+comment5.text=\n\ This\ function\ locates\ the\ index\ of\ '<'\ &\ '>'\ and\ finds\ the\ tag.\ \n\ It\ calls\ getSubstitute\ method\ to\ find\ a\ substitute\ for\ the\ tag\ inside\ the\ barckets.\n
+comment6.params=s\ lineWidth
+comment6.target=void\ printOut(java.lang.String,\ int)
+comment7.params=source
+comment7.target=java.lang.String\ fromTemplate(java.lang.String)
+comment8.params=source
+comment8.target=java.util.ArrayList\ readIt(java.lang.String)
+comment8.text=\n\ Reads\ the\ data\ from\ a\ URL\ or\ a\ File\ in\ the\ source\ directory\n
+comment9.params=
+comment9.target=void\ makeStory()
+numComments=10
